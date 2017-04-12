@@ -1,0 +1,10 @@
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\bin\Debug\rec_robotino_api2_dotnet.dll
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\obj\Debug\RobotinoControlSystem.Form1.resources
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\obj\Debug\RobotinoControlSystem.csproj.GenerateResource.Cache
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\bin\Debug\RobotinoControlSystem.exe.config
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\bin\Debug\RobotinoControlSystem.exe
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\bin\Debug\RobotinoControlSystem.pdb
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\obj\Debug\RobotinoControlSystem.Properties.Resources.resources
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\obj\Debug\RobotinoControlSystem.exe
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\obj\Debug\RobotinoControlSystem.pdb
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\obj\Debug\RobotinoControlSystem.csprojResolveAssemblyReference.cache

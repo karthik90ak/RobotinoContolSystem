@@ -1,0 +1,9 @@
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\bin\Release\rec_robotino_api2_dotnet.dll
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\obj\Release\RobotinoControlSystem.Form1.resources
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\obj\Release\RobotinoControlSystem.csproj.GenerateResource.Cache
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\bin\Release\RobotinoControlSystem.exe.config
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\bin\Release\RobotinoControlSystem.exe
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\bin\Release\RobotinoControlSystem.pdb
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\obj\Release\RobotinoControlSystem.Properties.Resources.resources
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\obj\Release\RobotinoControlSystem.exe
+C:\Users\Karthik\Documents\Visual Studio 2015\Projects\Robotino Control System\Robotino Control System\obj\Release\RobotinoControlSystem.pdb

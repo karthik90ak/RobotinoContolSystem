@@ -1,0 +1,22 @@
+C:\Users\Karthik\Desktop\Camera\bin\Debug\Camera.exe.config
+C:\Users\Karthik\Desktop\Camera\bin\Debug\Camera.exe
+C:\Users\Karthik\Desktop\Camera\bin\Debug\Camera.pdb
+C:\Program Files\REC GmbH\robotino\api2\examples\dotnet\Camera\obj\x86\Debug\rec.robotino.api2.examples.camera.CameraControl.resources
+C:\Program Files\REC GmbH\robotino\api2\examples\dotnet\Camera\obj\x86\Debug\rec.robotino.api2.examples.camera.ConnectControl.resources
+C:\Program Files\REC GmbH\robotino\api2\examples\dotnet\Camera\obj\x86\Debug\rec.robotino.api2.examples.camera.ConsoleControl.resources
+C:\Program Files\REC GmbH\robotino\api2\examples\dotnet\Camera\obj\x86\Debug\rec.robotino.api2.examples.camera.Icons.resources
+C:\Program Files\REC GmbH\robotino\api2\examples\dotnet\Camera\obj\x86\Debug\rec.robotino.api2.examples.camera.MainForm.resources
+C:\Program Files\REC GmbH\robotino\api2\examples\dotnet\Camera\obj\x86\Debug\rec.robotino.api2.examples.camera.Properties.Resources.resources
+C:\Program Files\REC GmbH\robotino\api2\examples\dotnet\Camera\obj\x86\Debug\rec.robotino.api2.examples.camera.DriveControl.resources
+C:\Program Files\REC GmbH\robotino\api2\examples\dotnet\Camera\obj\x86\Debug\Camera.csproj.GenerateResource.Cache
+C:\Program Files\REC GmbH\robotino\api2\examples\dotnet\Camera\obj\x86\Debug\Camera.exe
+C:\Program Files\REC GmbH\robotino\api2\examples\dotnet\Camera\obj\x86\Debug\Camera.pdb
+C:\Program Files\REC GmbH\robotino\api2\examples\dotnet\Camera\obj\x86\Debug\Camera.csprojResolveAssemblyReference.cache
+C:\Users\Karthik\Desktop\robotinoCameraAccess\Robotino2Camera\Camera.exe.config
+C:\Users\Karthik\Desktop\robotinoCameraAccess\Robotino2Camera\Camera.exe
+C:\Users\Karthik\Desktop\robotinoCameraAccess\Robotino2Camera\Camera.pdb
+C:\Users\Karthik\Desktop\robotinoCameraAccess\Robotino1Camera\Camera.exe.config
+C:\Users\Karthik\Desktop\robotinoCameraAccess\Robotino1Camera\Camera.exe
+C:\Users\Karthik\Desktop\robotinoCameraAccess\Robotino1Camera\Camera.pdb
+C:\Users\Karthik\Desktop\Robotino Control System\Modified Camera Project\Camera\obj\x86\Debug\Camera.exe
+C:\Users\Karthik\Desktop\Robotino Control System\Modified Camera Project\Camera\obj\x86\Debug\Camera.pdb
